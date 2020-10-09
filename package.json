@@ -1,0 +1,14 @@
+{
+  "name": "sequelize_json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5",
+    "sequelize-typescript": "^1.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
